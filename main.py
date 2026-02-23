@@ -3,7 +3,6 @@ from memory import Memory
 
 
 def main():
-    # PASTE YOUR KEY HERE
     api_key = "Open_AI_key"
 
     agent = PromptAgent(api_key)
