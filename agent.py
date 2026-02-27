@@ -14,10 +14,10 @@ class PromptAgent:
 
         Structure your response as follows:
         ---
-        ### 🚀 IMPROVED PROMPT
+        ###  IMPROVED PROMPT
         [The optimized prompt ready to copy-paste]
 
-        ### 💡 IMPROVEMENTS MADE
+        ###  IMPROVEMENTS MADE
         [Brief bullet points explaining the engineering techniques used]
         ---
         """
